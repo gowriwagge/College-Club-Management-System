@@ -1,5 +1,8 @@
 # College-Club-Management-System
-This project can be used as a starting point to create your own Vaadin application with Spring Boot. It contains all the necessary configuration and some placeholder files to get you started
+The system is designed to handle various aspects of college club management, including event browsing, registration, and
+payment processing.
+• Utilized Object-Oriented Analysis and Design (OOAD) principles to model and implement the system in Java using spring boot,
+ensuring a modular and maintainable architecture
 
 # Flow CRM Tutorial
 
